@@ -40,7 +40,7 @@ yum update -y && yum install curl -y
 安装选项
 
 
-快速管理  
+## 快速管理  
 v2ray info 查看 V2Ray 配置信息  
 v2ray config 修改 V2Ray 配置  
 v2ray link 生成 V2Ray 配置文件链接  
@@ -58,7 +58,7 @@ v2ray update 更新 V2Ray
 v2ray update.sh 更新 V2Ray 管理脚本  
 v2ray uninstall 卸载 V2Ray  
 
-配置文件路径  
+## 配置文件路径  
 V2Ray 配置文件路径：/etc/v2ray/config.json  
 Caddy 配置文件路径：/etc/caddy/Caddyfile  
 脚本配置文件路径: /etc/v2ray/233blog_v2ray_backup.conf  
