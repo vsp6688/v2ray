@@ -20,7 +20,7 @@ chmod +x tcp.sh
 233版本 bash <(curl -s -L https://git.io/v2ray.sh)
 ```
 ```bash
-for版本 bash <(curl -s -L https://raw.githubusercontent.com/vsp6688/v2ray/master/v2ray.sh)
+fork版本 bash <(curl -s -L https://raw.githubusercontent.com/vsp6688/v2ray/master/v2ray.sh)
 ```
 如果提示 curl: command not found ，那是因为你的 VPS 没装 Curl  
 ubuntu/debian 系统安装 Curl 方法: 
