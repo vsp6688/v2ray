@@ -28,4 +28,10 @@ centos 系统安装 Curl 方法:
 ```bash 
 yum update -y && yum install curl -y
 ```  
-安装好 curl 之后就能安装脚本了
+安装好 curl 之后就能安装脚本了  
+备注：安装完成后，输入 v2ray 即可管理 V2Ray
+如果提示你的系统不支持此脚本，那么请尝试更换系统
+
+下面是此脚本的一些截图
+
+安装选项
