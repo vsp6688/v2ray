@@ -1,5 +1,5 @@
-# 所有脚本所有权利归原作者所有。Thanks
-# TCP 四合一加速器 BBR-魔改-BBRPLUS-锐速  
+#1 所有脚本所有权利归原作者所有。Thanks
+#1 TCP 四合一加速器 BBR-魔改-BBRPLUS-锐速  
 
 支持系统
 Centos 6+ / Debian 7+ / Ubuntu 14+
@@ -15,7 +15,7 @@ BBR魔改版不支持Debian 8
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
 chmod +x tcp.sh 
 ```
-# 233 v2ray 一健脚本  
+#1 233 v2ray 一健脚本  
 ```bash
 233版本 bash <(curl -s -L https://git.io/v2ray.sh)
 ```
