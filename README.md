@@ -9,8 +9,7 @@ BBR魔改版不支持Debian 8
 命令接着操作脚本会自动检测安装的情况，请注意脚本菜单下的状态检测即可。
  
 ```bash
-wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
-chmod +x tcp.sh 
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"chmod +x tcp.sh 
 ```
 ## 233 v2ray 一健脚本  
 ```bash
