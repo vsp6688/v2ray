@@ -9,7 +9,17 @@ BBR魔改版不支持Debian 8
 命令接着操作脚本会自动检测安装的情况，请注意脚本菜单下的状态检测即可。
  
 ```bash
-wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"chmod +x tcp.sh 
+项目地址：
+https://github.com/cx9208/Linux-NetSpeed
+简介：
+
+本脚本支持KVM架构的VPS，不支持OpenVZ，
+在vultr上 Centos 7, Debian 8/9, Ubuntu 16/18测试通过
+安装命令：
+
+原版 wget "https://github.com/chiakge/Linux-NetSpeed/raw/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+
+备份版本 wget "https://github.com/vsp6688/Linux-NetSpeed/blob/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 ## 233 v2ray 一健脚本  
 ```bash
